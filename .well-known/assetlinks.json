@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.topera.adivinha",
+    "sha256_cert_fingerprints":
+    ["CF:9D:C3:9D:AA:35:A6:16:E2:9E:29:E5:02:14:6C:F1:9C:73:B8:CA:55:19:F4:D9:7E:72:80:24:E2:71:06:C3"]
+  }
+}]
